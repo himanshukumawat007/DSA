@@ -16,7 +16,7 @@ public class CountingWordsAndVowels {
             }
 
         }
-      System.out.println("Sentence: " + new String(arr));
+      System.out.println("Sentence: " + new String(arr) );
         System.out.println("no. of vowels : "+ vcount);
         System.out.print("no. of words :" + words );
     }
