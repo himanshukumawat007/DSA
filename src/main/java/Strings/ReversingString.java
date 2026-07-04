@@ -4,6 +4,7 @@ public class ReversingString {
     public static void main(String[] args){
         String str ="onepiece";
         char[] arr= str.toCharArray();
+
         int i;
         int j=arr.length;
         char temp;
